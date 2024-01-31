@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
-<h3 align="center">A passionate Data Science Learner from Dhulikhel, Nepal.</h3>
+<h3 align="center">A passionate Data Science Practictioner from Dhulikhel, Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant-regmi&label=Profile%20views&color=0e75b6&style=flat" alt="sushant-regmi" /> </p>
 

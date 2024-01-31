@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Recurrent Neural Network**
 
-- 📝 I sometimes write articles on [https://medium.com/@sregmi48/scraping-player-stats-from-fbref-and-representing-it-in-a-pizza-plot-ce08c54e52c1](https://medium.com/@sregmi48/scraping-player-stats-from-fbref-and-representing-it-in-a-pizza-plot-ce08c54e52c1)
+- 📝 I sometimes write articles on [medium.com/@sregmi48)
 
 - 💬 Ask me about **Data Mining, Data Analysis, Data Post Processing**
 

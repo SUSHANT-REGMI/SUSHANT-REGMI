@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Recurrent Neural Network**
 
-- 📝 I sometimes write articles on [medium.com/@sregmi48)
+- 📝 I sometimes write articles on [medium](medium)
 
 - 💬 Ask me about **Data Mining, Data Analysis, Data Post Processing**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant-regmi&label=Profile%20views&color=0e75b6&style=flat" alt="sushant-regmi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/regmi38" target="blank"><img src="https://img.shields.io/twitter/follow/@regmi38?logo=twitter&style=for-the-badge" alt="regmi38" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@regmi38" target="blank"><img src="https://img.shields.io/twitter/follow/regmi38?logo=twitter&style=for-the-badge" alt="regmi38" /></a> </p>
 
 - 🔭 I’m currently working on **a Football Analytics Portal**
 

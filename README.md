@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@sregmi48)
 
-- 💬 Ask me about **Data Mining, Data Analysis, Data Post Processing**
+- 💬 Ask me about **Data Mining, Data Analysis, Supervised Learning**
 
 - 📫 How to reach me **sregmi163@gmail.com**
 

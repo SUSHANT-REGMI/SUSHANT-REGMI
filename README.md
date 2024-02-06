@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Mining, Data Analysis, Supervised Learning**
 
-- 📫 How to reach me **sregmi163@gmail.com**
+- 📫 Reach me at **sregmi163@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

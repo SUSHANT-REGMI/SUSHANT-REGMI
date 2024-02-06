@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@regmi38" target="blank"><img src="https://img.shields.io/twitter/follow/regmi38?logo=twitter&style=for-the-badge" alt="regmi38" /></a> </p>
 
-- 🔭 I’m currently working on **a Football Analytics Portal**
+- 🔭 I’m currently working on **a Stock Market Analytics Portal**
 
 - 🌱 I’m currently learning **Recurrent Neural Network**
 
